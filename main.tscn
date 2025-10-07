@@ -1,0 +1,52 @@
+[gd_scene load_steps=7 format=4 uid="uid://bfu3elw6u6km4"]
+
+[ext_resource type="Script" uid="uid://chkd86hsmdm5b" path="res://main.gd" id="1_0xm2m"]
+[ext_resource type="PackedScene" uid="uid://dtbplvnwhk2lf" path="res://player.tscn" id="2_h2yge"]
+[ext_resource type="Script" uid="uid://qbr8c0f5ey3w" path="res://hud.gd" id="3_h2yge"]
+[ext_resource type="Texture2D" uid="uid://sakw78ukeclx" path="res://world/tiles.svg" id="4_1bvp3"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lquwl"]
+texture = ExtResource("4_1bvp3")
+0:0/size_in_atlas = Vector2i(4, 4)
+0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-33.86843, -31.046064, 32.175007, -32.739487, 32.739483, 32.739487, -33.30396, 33.303955)
+4:0/size_in_atlas = Vector2i(4, 4)
+4:0/0 = 0
+4:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-30.269928, -30.58855, 33.13759, -30.58855, 31.863068, 30.90718, -29.951294, 30.90718)
+
+[sub_resource type="TileSet" id="TileSet_h2yge"]
+physics_layer_0/collision_layer = 1
+sources/0 = SubResource("TileSetAtlasSource_lquwl")
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_0xm2m")
+
+[node name="Player" parent="." instance=ExtResource("2_h2yge")]
+slide_on_ceiling = false
+floor_block_on_wall = false
+floor_max_angle = 1.2217305
+
+[node name="Camera2D" type="Camera2D" parent="Player"]
+position_smoothing_enabled = true
+
+[node name="StartPosition" type="Marker2D" parent="."]
+position = Vector2(200, 328)
+
+[node name="HUD" type="CanvasLayer" parent="."]
+visible = false
+script = ExtResource("3_h2yge")
+
+[node name="StartButton" type="Button" parent="HUD"]
+offset_left = 439.99994
+offset_top = 240.00002
+offset_right = 485.99994
+offset_bottom = 271.0
+scale = Vector2(6.2109766, 4.811608)
+text = "Start"
+
+[node name="StartTimer" type="Timer" parent="."]
+wait_time = 2.0
+
+[node name="TileMapLayer" type="TileMapLayer" parent="."]
+tile_map_data = PackedByteArray("AAABACEAAAAAAAAAAAAFACEAAAAAAAAAAAAJACEAAAAAAAAAAAANACEAAAAAAAAAAAARACIAAAAAAAAAAAAVACMAAAAAAAAAAAAZACQAAAAAAAAAAAAdACUAAAAAAAAAAAAhACYAAAAAAAAAAAAlACUAAAAAAAAAAAApACQAAAAAAAAAAAAtACIAAAAAAAAAAAAxAB8AAAAAAAAAAAAzABsAAAAAAAAAAAD+/yQAAAAAAAAAAAD+/ygAAAAAAAAAAAD9/ywAAAAAAAAAAAD7/zAAAAAAAAAAAAD3/zEAAAAAAAAAAADz/zEAAAAAAAAAAADv/zEAAAAAAAAAAADr/y8AAAAAAAAAAADn/y4AAAAAAAAAAADk/ywAAAAAAAAAAAAdABkAAAAEAAAAAAAhABkAAAAEAAAAAAAlABkAAAAEAAAAAAApABkAAAAEAAAAAAA3ABsAAAAAAAAAAAA7ABsAAAAAAAAAAAA/ABsAAAAAAAAAAABDABsAAAAAAAAAAABHABsAAAAAAAAAAABLABsAAAAAAAAAAABPABoAAAAAAAAAAABTABkAAAAAAAAAAABXABgAAAAAAAAAAABbABcAAAAAAAAAAABfABYAAAAAAAAAAAAzABEAAAAEAAAAAAA3ABEAAAAEAAAAAAA7ABEAAAAEAAAAAAA/ABEAAAAEAAAAAAA=")
+tile_set = SubResource("TileSet_h2yge")

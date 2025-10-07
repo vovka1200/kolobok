@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="kolobok.svg"
+   inkscape:export-filename="../7d2339ba/00.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3367076"
+     inkscape:cx="1373.8981"
+     inkscape:cy="438.01651"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient110"
+       inkscape:collect="always"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#83532b;stop-opacity:1;"
+         offset="0.67033303"
+         id="stop110" />
+      <stop
+         style="stop-color:#6a3910;stop-opacity:0;"
+         offset="1"
+         id="stop111" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient108"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#462a1b;stop-opacity:1;"
+         offset="0"
+         id="stop108" />
+      <stop
+         style="stop-color:#462a1b;stop-opacity:0;"
+         offset="1"
+         id="stop109" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient108"
+       id="linearGradient109"
+       x1="172.78067"
+       y1="285.14663"
+       x2="201.14684"
+       y2="291.69968"
+       gradientUnits="userSpaceOnUse" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient117"
+       gradientUnits="userSpaceOnUse"
+       x="173.95694"
+       y="265.48749">
+      <meshrow
+         id="meshrow133">
+        <meshpatch
+           id="meshpatch133">
+          <stop
+             path="c 10.8826,8.20236  25.8474,7.90781  40.7848,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop133" />
+          <stop
+             path="c 12.6588,19.3064  5.98667,34.3485  0,39.3183"
+             style="stop-color:#90480c;stop-opacity:1"
+             id="stop134" />
+          <stop
+             path="c -13.5949,0  -27.1899,0  -40.7848,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop135" />
+          <stop
+             path="c 0,-13.1061  0,-26.2122  0,-39.3183"
+             style="stop-color:#90480c;stop-opacity:1"
+             id="stop136" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <g
+     inkscape:label="kolobok"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <ellipse
+       style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="153.26079"
+       cy="109.13194"
+       rx="65.369301"
+       ry="64.819969"
+       inkscape:label="body"
+       inkscape:export-filename="../5547c7fb/hero1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+       id="path2"
+       sodipodi:nodetypes="cc"
+       inkscape:label="mouth" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+       id="path4"
+       sodipodi:nodetypes="cc"
+       inkscape:label="left_eye" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+       id="path3"
+       sodipodi:nodetypes="cc"
+       inkscape:label="right_eye" />
+  </g>
+  <g
+     inkscape:label="kolobok fall"
+     inkscape:groupmode="layer"
+     id="g47"
+     style="display:none"
+     inkscape:export-filename="../34cc560d/00.svg"
+     inkscape:export-xdpi="23.904921"
+     inkscape:export-ydpi="23.904921">
+    <ellipse
+       style="display:inline;fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-3"
+       cx="153.26079"
+       cy="109.13194"
+       rx="65.369301"
+       ry="64.819969"
+       inkscape:label="body"
+       inkscape:export-filename="../5547c7fb/hero1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#3a2614;fill-opacity:0.820979;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 105.06098,125.83785 c -3.92891,28.56978 74.53441,70.27434 104.97463,-1.35717 7.25863,-21.63693 -103.16655,-16.46333 -104.97463,1.35717 z"
+       id="path45"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="mouth" />
+    <path
+       style="fill:#f0ecec;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 173.35433,89.841488 c 17.4378,25.183432 24.6307,-4.089593 23.60602,-11.421964 -5.53474,-16.291132 -16.35467,-13.443116 -23.60602,11.421964 z"
+       id="path46"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="left_eye" />
+    <path
+       style="fill:#f0ecec;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 114.92869,85.316124 c 0.20534,8.568415 18.40108,31.199996 28.00059,9.185022 -7.28142,-35.719109 -29.55046,-24.524926 -28.00059,-9.185022 z"
+       id="path47"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="right_eye" />
+    <ellipse
+       style="fill:#060203;fill-opacity:1;stroke:none;stroke-width:2.48254;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path49"
+       cx="185.19986"
+       cy="91.747353"
+       rx="8.9043331"
+       ry="8.112587" />
+    <ellipse
+       style="display:inline;fill:#060203;fill-opacity:1;stroke:none;stroke-width:2.35297;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       id="path49-2"
+       cx="131.68066"
+       cy="95.552925"
+       rx="8.4094925"
+       ry="7.7167139" />
+    <path
+       style="display:inline;fill:#ab182f;fill-opacity:1;stroke:#512005;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 125.05184,143.93268 c 1.83406,16.9663 20.93014,18.05735 30.59115,17.95464 24.15335,-0.25679 30.32369,-6.1491 36.31083,-15.29535 -4.02963,-4.14353 -14.33737,-9.5081 -36.0446,-1.50244 -11.23403,-5.46051 -25.01399,-7.36766 -30.85738,-1.15685 z"
+       id="path44-5"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="fill:#f6cfbd;fill-opacity:0.819608;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.59959,113.64594 c 17.98059,-1.29919 38.0793,-1.60213 44.95449,-1.52843 6.87519,0.0737 1.80253,12.4942 -21.18775,14.60169 -22.99028,2.10749 -29.95957,-12.6258 -23.76674,-13.07326 z"
+       id="path50"
+       sodipodi:nodetypes="szzs" />
+  </g>
+  <g
+     inkscape:label="kolobok jump"
+     inkscape:groupmode="layer"
+     id="g43"
+     style="display:inline"
+     inkscape:export-filename="../8bd83201/00.svg"
+     inkscape:export-xdpi="23.904921"
+     inkscape:export-ydpi="23.904921">
+    <ellipse
+       style="display:inline;fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-6"
+       cx="153.26079"
+       cy="109.13194"
+       rx="65.369301"
+       ry="64.819969"
+       inkscape:label="body"
+       inkscape:export-filename="../5547c7fb/hero1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#f6cfbd;fill-opacity:0.820979;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 107.46473,112.77015 c 31.4118,108.13398 101.94761,-14.594916 101.94761,-14.594916 0,0 -21.17807,50.141656 -101.94761,14.594916 z"
+       id="path41"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="mouth" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+       id="path42"
+       sodipodi:nodetypes="cc"
+       inkscape:label="left_eye" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 174.21976,89.689741 c 5.8906,-7.994388 17.5353,-1.961249 28.28274,-0.241949"
+       id="path42-6"
+       sodipodi:nodetypes="cc"
+       inkscape:label="left_eye" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+       id="path43"
+       sodipodi:nodetypes="cc"
+       inkscape:label="right_eye" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 114.08199,99.828657 c 11.56711,-2.024553 24.68,-14.955253 29.59814,-5.207073"
+       id="path43-3"
+       sodipodi:nodetypes="cc"
+       inkscape:label="right_eye" />
+    <path
+       style="fill:#ab182f;fill-opacity:1;stroke:#512005;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 115.74882,133.2441 c -14.05137,19.17591 -4.02689,30.8412 12.18305,30.82052 12.96705,-0.0165 38.30173,-5.37681 54.71893,-28.16123 -4.02963,-4.14353 -14.33737,-9.5081 -36.0446,-1.50244 -11.23403,-5.46051 -25.01399,-7.36766 -30.85738,-1.15685 z"
+       id="path44"
+       sodipodi:nodetypes="csccc" />
+  </g>
+  <g
+     id="g38"
+     inkscape:label="walk"
+     style="display:none">
+    <g
+       inkscape:label="kolobok 0"
+       inkscape:groupmode="layer"
+       id="g9"
+       style="display:inline"
+       inkscape:export-filename="../7d2339ba/00.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse7"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path7"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path8"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path9"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 1"
+       inkscape:groupmode="layer"
+       id="g12"
+       style="display:inline"
+       transform="rotate(12,153.26079,109.13194)"
+       inkscape:export-filename="../e7886476/01.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse9"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path10"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path11"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path12"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 2"
+       inkscape:groupmode="layer"
+       id="g15"
+       style="display:inline"
+       transform="rotate(24,153.26079,109.13194)"
+       inkscape:export-filename="../5c0fdb6e/02.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse12"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path13"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path14"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path15"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 3"
+       inkscape:groupmode="layer"
+       id="g18"
+       style="display:inline"
+       transform="rotate(36,153.26079,109.13194)"
+       inkscape:export-filename="../54bedf2d/03.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse15"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path16"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path17"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path18"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 4"
+       inkscape:groupmode="layer"
+       id="g21"
+       style="display:inline"
+       transform="rotate(48,153.26079,109.13194)"
+       inkscape:export-filename="../9894c83c/04.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse18"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path19"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path20"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path21"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 5"
+       inkscape:groupmode="layer"
+       id="g24"
+       style="display:inline"
+       transform="rotate(60,153.26079,109.13194)"
+       inkscape:export-filename="../d92dd6c0/05.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse21"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path22"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path23"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path24"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 6"
+       inkscape:groupmode="layer"
+       id="g27"
+       style="display:inline"
+       transform="rotate(72,153.26079,109.13194)"
+       inkscape:export-filename="../d7cf3258/06.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse24"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path25"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path26"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path27"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 7"
+       inkscape:groupmode="layer"
+       id="g30"
+       style="display:inline"
+       transform="rotate(84,153.26079,109.13194)"
+       inkscape:export-filename="../72849863/07.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse27"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path28"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path29"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path30"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 8"
+       inkscape:groupmode="layer"
+       id="g33"
+       style="display:inline"
+       transform="rotate(96,153.26079,109.13194)"
+       inkscape:export-filename="../e7563ea3/08.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse30"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path31"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path32"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path33"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 9"
+       inkscape:groupmode="layer"
+       id="g36"
+       style="display:inline"
+       transform="rotate(108,153.26079,109.13194)"
+       inkscape:export-filename="../8295a209/09.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse33"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path34"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path35"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path36"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 10"
+       inkscape:groupmode="layer"
+       id="g39"
+       style="display:inline"
+       transform="rotate(120,153.26079,109.13194)"
+       inkscape:export-filename="../c2ad1a32/10.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse36"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path37"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path38"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path39"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 11"
+       inkscape:groupmode="layer"
+       id="g51"
+       style="display:inline"
+       transform="rotate(132,153.26079,109.13194)"
+       inkscape:export-filename="../9219ef6e/11.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse39"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path40"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path48"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path51"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 12"
+       inkscape:groupmode="layer"
+       id="g54"
+       style="display:inline"
+       transform="rotate(144,153.26079,109.13194)"
+       inkscape:export-filename="../9fa36717/12.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse51"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path52"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path53"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path54"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 13"
+       inkscape:groupmode="layer"
+       id="g57"
+       style="display:inline"
+       transform="rotate(156,153.26079,109.13194)"
+       inkscape:export-filename="../c316f7/13.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse54"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path55"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path56"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path57"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 14"
+       inkscape:groupmode="layer"
+       id="g60"
+       style="display:inline"
+       transform="rotate(168,153.26079,109.13194)"
+       inkscape:export-filename="../773f8e84/14.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse57"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path58"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path59"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path60"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 15"
+       inkscape:groupmode="layer"
+       id="g63"
+       style="display:inline"
+       transform="rotate(180,153.26079,109.13194)"
+       inkscape:export-filename="../801ba158/15.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse60"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path61"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path62"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path63"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 16"
+       inkscape:groupmode="layer"
+       id="g66"
+       style="display:inline"
+       transform="rotate(-168,153.26079,109.13194)"
+       inkscape:export-filename="../582d76b/16.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse63"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path64"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path65"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path66"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 17"
+       inkscape:groupmode="layer"
+       id="g69"
+       style="display:inline"
+       transform="rotate(-156,153.26079,109.13194)"
+       inkscape:export-filename="../a19aefa8/17.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse66"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path67"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path68"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path69"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 18"
+       inkscape:groupmode="layer"
+       id="g72"
+       style="display:inline"
+       transform="rotate(-144,153.26079,109.13194)"
+       inkscape:export-filename="../b474bcb3/18.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse69"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path70"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path71"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path72"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 19"
+       inkscape:groupmode="layer"
+       id="g77"
+       style="display:inline"
+       transform="rotate(-132,153.26079,109.13194)"
+       inkscape:export-filename="../b5962188/19.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse75"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path75"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path76"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path77"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 20"
+       inkscape:groupmode="layer"
+       id="g80"
+       style="display:inline"
+       transform="rotate(-120,153.26079,109.13194)"
+       inkscape:export-filename="../586f46a3/20.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse77"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path78"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path79"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path80"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 21"
+       inkscape:groupmode="layer"
+       id="g83"
+       style="display:inline"
+       transform="rotate(-108,153.26079,109.13194)"
+       inkscape:export-filename="../bb1ea8cd/21.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse80"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path81"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path82"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path83"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 22"
+       inkscape:groupmode="layer"
+       id="g86"
+       style="display:inline"
+       transform="rotate(-96,153.26079,109.13194)"
+       inkscape:export-filename="../739015f1/22.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse83"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path84"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path85"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path86"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 23"
+       inkscape:groupmode="layer"
+       id="g89"
+       style="display:inline"
+       transform="rotate(-84,153.26079,109.13194)"
+       inkscape:export-filename="../1d86616/23.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse86"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path87"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path88"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path89"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 24"
+       inkscape:groupmode="layer"
+       id="g92"
+       style="display:inline"
+       transform="rotate(-72,153.26079,109.13194)"
+       inkscape:export-filename="../2ce7a527/24.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse89"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path90"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path91"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path92"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 25"
+       inkscape:groupmode="layer"
+       id="g95"
+       style="display:inline"
+       transform="rotate(-60,153.26079,109.13194)"
+       inkscape:export-filename="../365f4448/25.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse92"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path93"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path94"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path95"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 26"
+       inkscape:groupmode="layer"
+       id="g98"
+       style="display:inline"
+       transform="rotate(-48,153.26079,109.13194)"
+       inkscape:export-filename="../64376f68/26.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse95"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path96"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path97"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path98"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 27"
+       inkscape:groupmode="layer"
+       id="g101"
+       style="display:inline"
+       transform="rotate(-36,153.26079,109.13194)"
+       inkscape:export-filename="../cf72a497/27.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse98"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path99"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path100"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path101"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 28"
+       inkscape:groupmode="layer"
+       id="g104"
+       style="display:inline"
+       transform="rotate(-24,153.26079,109.13194)"
+       inkscape:export-filename="../8a4f3c93/28.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse101"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path102"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path103"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path104"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+    <g
+       inkscape:label="kolobok 29"
+       inkscape:groupmode="layer"
+       id="g107"
+       style="display:inline"
+       transform="rotate(-12,153.26079,109.13194)"
+       inkscape:export-filename="../ab624057/29.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#db7b2a;fill-opacity:1;stroke:#903808;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse104"
+         cx="153.26079"
+         cy="109.13194"
+         rx="65.369301"
+         ry="64.819969"
+         inkscape:label="body"
+         inkscape:export-filename="../5547c7fb/hero1.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 107.30086,112.79408 C 188.23427,148.31689 209.10851,97.779284 209.10851,97.779284"
+         id="path105"
+         sodipodi:nodetypes="cc"
+         inkscape:label="mouth" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 173.21948,89.722565 c 5.8906,-7.994395 13.05651,-13.438164 23.80395,-11.718867"
+         id="path106"
+         sodipodi:nodetypes="cc"
+         inkscape:label="left_eye" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 114.62515,85.327989 c 11.56711,-2.024553 23.28038,-0.959023 28.19852,8.789149"
+         id="path107"
+         sodipodi:nodetypes="cc"
+         inkscape:label="right_eye" />
+    </g>
+  </g>
+  <g
+     id="layer3"
+     inkscape:label="dirt"
+     style="display:inline"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#6a3910;fill-opacity:1;stroke:none;stroke-width:1.88589;stroke-linecap:square;stroke-opacity:1"
+       id="rect107"
+       width="126.11411"
+       height="62.114113"
+       x="297.84253"
+       y="94.61731"
+       inkscape:label="1" />
+    <rect
+       style="fill:url(#meshgradient117);fill-opacity:1;stroke:url(#linearGradient109);stroke-width:2.35253;stroke-linecap:round;stroke-opacity:1;fill-rule:nonzero"
+       id="rect108"
+       width="40.78484"
+       height="39.318275"
+       x="173.95694"
+       y="265.48749"
+       ry="0"
+       transform="matrix(0.8410959,-0.54088602,0.58527682,0.81083355,0,0)" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#462a1b;stroke-width:2.35253;stroke-linecap:round;stroke-opacity:1"
+       id="rect108-5"
+       width="40.78484"
+       height="39.318275"
+       x="201.03809"
+       y="282.43051"
+       ry="0"
+       transform="matrix(0.8410959,-0.54088602,0.58527682,0.81083355,0,0)" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#462a1b;stroke-width:2.35253;stroke-linecap:round;stroke-opacity:1"
+       id="rect108-9"
+       width="40.78484"
+       height="39.318275"
+       x="225.02023"
+       y="300.19403"
+       ry="0"
+       transform="matrix(0.8410959,-0.54088602,0.58527682,0.81083355,0,0)" />
+  </g>
+</svg>
